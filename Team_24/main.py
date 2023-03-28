@@ -125,7 +125,7 @@ if selected=="Pneumonia":
 
 
 if selected=="Heart Disease":
-    loaded_model=tf.keras.models.load_model('my_model.h5')
+    loaded_model=tf.keras.models.load_model('pnemonia.h5')
     img2=Image.open('images/ss.png')
     st.image(img2)
     pickle_in = open('heart.pkl','rb')
