@@ -195,7 +195,7 @@ if selected=="Heart Disease":
             if result == 1:
                 st.error("The data affected with Heart disease")
             else:
-                st.success("The data is not affected with Pneumonia")
+                st.success("The data is not affected with Heart disease")
     if __name__=='__main__':
         main()
     
