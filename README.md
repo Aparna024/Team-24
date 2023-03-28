@@ -17,5 +17,8 @@
 - Evaluating the model
 - Recall
 - Testing the model
--Deploying the model
+- Deploying the model
+
+## Datasets
+### Datasets of all the diseases are taken from kaggle
 
