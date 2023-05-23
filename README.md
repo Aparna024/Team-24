@@ -27,5 +27,5 @@
 - Deploying the model
 
 ## Datasets
- Datasets of all the diseases are taken from kaggle
+ Datasets for all the diseases are taken from kaggle
 
