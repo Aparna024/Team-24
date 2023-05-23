@@ -1,7 +1,14 @@
 ![image-removebg-preview (34)](https://user-images.githubusercontent.com/99636525/228105433-2e7860fc-99f4-4a90-bf70-237a13efbf64.png)
 # TEAM VISION ✌
 ## Developing a user-friendly web application for Disease Predicition
-### In this project we are going to predict diseases like Pneumonia, Cardiovascular disease, Malaria  from X-ray, CSV datasets and Blood smear respectively by creating a machine learning model.
+### In this project, we are predicting diseases like Pneumonia, Cardiovascular disease, Malaria  from X-ray, CSV datasets and Blood smear respectively using  machine learning models such as:
+- CNN
+- SVM
+- Random Forest
+- Stochastic Gradient Boosting
+- XG Boost
+- Resnet
+- Logistic Regression
 
 <h3 align="left">Tools used:</h3>
 <p align="left">   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
