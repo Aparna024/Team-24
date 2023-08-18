@@ -1,7 +1,7 @@
 ![image-removebg-preview (34)](https://user-images.githubusercontent.com/99636525/228105433-2e7860fc-99f4-4a90-bf70-237a13efbf64.png)
 # TEAM VISION ✌
-## Developing a user-friendly web application for Disease Predicition
-### In this project, we are predicting diseases like Pneumonia, Cardiovascular disease, Malaria  from X-ray, CSV datasets and Blood smear respectively using  machine learning models such as:
+## Developing a user-friendly web application for Multiple Disease Prediction
+### Within this undertaking, we are utilizing machine learning techniques to forecast illnesses such as Pneumonia, Cardiovascular disease, and Malaria. These predictions are drawn from X-ray images, CSV datasets, and Blood smear samples, employing various machine learning models such as:
 - CNN
 - SVM
 - Random Forest
